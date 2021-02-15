@@ -1,27 +1,3 @@
-INFO  StorageDelivery:26 - Stroiteley 60
-INFO  StorageDelivery:26 - Lisovogo 70
-INFO  StorageDelivery:26 - 
-INFO  Menu:31 - Please write the street where you want to receive delivery.
-INFO  StorageFood:25 - RibeyeSteak 35
-INFO  StorageFood:25 - Beefsteak 40
-INFO  StorageFood:25 - Mimosa 17
-INFO  StorageFood:25 - GreekSalad 20
-INFO  StorageFood:25 - Cheesecake 17
-INFO  StorageFood:25 - Mango 7
-INFO  StorageFood:25 - 
-INFO  StorageDelivery:26 - Stroiteley 60
-INFO  StorageDelivery:26 - Lisovogo 70
-INFO  StorageDelivery:26 - 
-INFO  Menu:31 - Please write the street where you want to receive delivery.
-INFO  StorageFood:20 - RibeyeSteak 35
-INFO  StorageFood:20 - Beefsteak 40
-INFO  StorageFood:20 - Mimosa 17
-INFO  StorageFood:20 - GreekSalad 20
-INFO  StorageFood:20 - Cheesecake 17
-INFO  StorageFood:20 - Mango 7
-INFO  StorageFood:20 - 
-INFO  StorageDelivery:26 - Stroiteley 60
-INFO  StorageDelivery:26 - Lisovogo 70
-INFO  StorageDelivery:26 - 
-INFO  Menu:31 - Please write the street where you want to receive delivery.
-INFO  StorageFood:19 - FriedChicken 25
+INFO  StorageDelivery:28 - Stroiteley 60 35 15
+INFO  StorageDelivery:28 - Lisovogo 70 40 20
+INFO  StorageDelivery:28 - Stroiteley 60 35 15

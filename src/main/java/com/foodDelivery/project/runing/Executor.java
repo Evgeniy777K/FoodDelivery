@@ -9,7 +9,8 @@ import java.io.IOException;
 public class Executor {
 
     public static void main(String[] args) throws MyException, IOException {
-        Menu.printMenu();
+        Menu.printMyMenu();
+        Menu.printClientMenu();
 
 
 

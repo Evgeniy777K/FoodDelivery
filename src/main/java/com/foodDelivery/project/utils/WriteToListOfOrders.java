@@ -1,10 +1,10 @@
-package com.foodDelivery.project;
+package com.foodDelivery.project.utils;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
 
-public class  WriteToListOfOrders {
+public class WriteToListOfOrders {
     BufferedWriter bw;
     BufferedWriter bufferedWriter;
 

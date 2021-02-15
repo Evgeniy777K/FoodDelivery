@@ -1,4 +1,4 @@
-package com.foodDelivery.project;
+package com.foodDelivery.project.utils;
 
 
 import com.foodDelivery.project.exception.MyException;
