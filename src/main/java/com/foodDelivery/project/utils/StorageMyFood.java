@@ -8,8 +8,8 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.List;
 
-public class StorageFood {
-    private static final Logger LOGGER = Logger.getLogger((StorageFood.class));
+public class StorageMyFood {
+    private static final Logger LOGGER = Logger.getLogger((StorageMyFood.class));
 
     public static List<String> getStorageFood(List<String> storageFood) {
         BufferedReader reader = null;

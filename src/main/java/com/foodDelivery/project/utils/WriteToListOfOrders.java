@@ -5,8 +5,8 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 public class WriteToListOfOrders {
-    BufferedWriter bw;
-    BufferedWriter bufferedWriter;
+    public BufferedWriter bw;
+    public BufferedWriter bufferedWriter;
 
     {
         try {
