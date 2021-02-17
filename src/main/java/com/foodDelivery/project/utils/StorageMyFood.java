@@ -14,7 +14,7 @@ public class StorageMyFood {
     public static List<String> getStorageFood(List<String> storageFood) {
         BufferedReader reader = null;
         try {
-            reader = new BufferedReader(new FileReader("data/foodMenu"));
+            reader = new BufferedReader(new FileReader("data/foodMyMenu.txt"));
             String line = reader.readLine();
             while (line != null) {
                 String[] splitLine = line.split(" ");

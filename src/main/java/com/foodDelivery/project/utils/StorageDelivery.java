@@ -14,7 +14,7 @@ public class StorageDelivery {
     public static List<String> getStorageDelivery(List<String> storageDelivery) {
         BufferedReader reader = null;
         try {
-            reader = new BufferedReader(new FileReader("data/delivery"));
+            reader = new BufferedReader(new FileReader("data/delivery.txt"));
             String line = reader.readLine();
             while (line != null) {
                 String[] splitLine = line.split(" ");

@@ -53,3 +53,199 @@ INFO  JsonExecute:19 - convert to string, finished!
 INFO  Executor:25 - "Igor Vegetable Jalfrezi 220$"
 INFO  Executor:26 - ================
 INFO  JsonExecute:30 - write to file, finished!
+INFO  StorageDelivery:27 - Stroiteley 60 35 15
+INFO  StorageDelivery:27 - Lisovogo 70 40 20
+INFO  StorageDelivery:27 - 
+INFO  StorageDelivery:27 - Stroiteley 60 35 15
+INFO  StorageDelivery:27 - Lisovogo 70 40 20
+INFO  StorageDelivery:27 - 
+INFO  StorageDelivery:27 - Stroiteley,60,35,15
+INFO  StorageDelivery:27 - Lisovogo,70,40,20
+INFO  StorageDelivery:27 - 
+INFO  StorageDelivery:27 - Stroiteley,60,35,15
+INFO  StorageDelivery:27 - Lisovogo,70,40,20
+INFO  StorageDelivery:27 - 
+INFO  StorageDelivery:27 - Stroiteley 60 35 15
+INFO  StorageDelivery:27 - Lisovogo 70 40 20
+INFO  StorageDelivery:27 - 
+INFO  StorageDelivery:27 - Stroiteley 60 35 15
+INFO  StorageDelivery:27 - Lisovogo 70 40 20
+INFO  StorageDelivery:27 - 
+INFO  StorageDelivery:27 - Stroiteley 60 35 15
+INFO  StorageDelivery:27 - Lisovogo 70 40 20
+INFO  StorageDelivery:27 - 
+INFO  StorageDelivery:27 - Stroiteley 60 35 15
+INFO  StorageDelivery:27 - Lisovogo 70 40 20
+INFO  StorageDelivery:27 - 
+INFO  StorageDelivery:27 - Stroiteley 60 35 15
+INFO  StorageDelivery:27 - Lisovogo 70 40 20
+INFO  StorageDelivery:27 - 
+INFO  Menu:33 - Please write the street where you want to receive delivery.
+INFO  StorageMyFood:26 - RibeyeSteak 35 15
+INFO  StorageMyFood:26 - Beefsteak 40 20
+INFO  StorageMyFood:26 - Mimosa 17 25
+INFO  StorageMyFood:26 - GreekSalad 20 25
+INFO  StorageMyFood:26 - Cheesecake 17 15
+INFO  StorageMyFood:26 - Mango 7 20
+INFO  StorageMyFood:26 - 
+INFO  JsonExecute:19 - convert to string, finished!
+INFO  Executor:22 - "Igor Vegetable Jalfrezi 220$"
+INFO  Executor:23 - ================
+INFO  JsonExecute:30 - write to file, finished!
+INFO  StorageDelivery:27 - Stroiteley 60 35 15
+INFO  StorageDelivery:27 - Lisovogo 70 40 20
+INFO  StorageDelivery:27 - 
+INFO  Menu:33 - Please write the street where you want to receive delivery.txt.
+INFO  JsonExecute:19 - convert to string, finished!
+INFO  Executor:22 - "Igor Vegetable Jalfrezi 220$"
+INFO  Executor:23 - ================
+INFO  JsonExecute:30 - write to file, finished!
+INFO  StorageDelivery:27 - Stroiteley 60 35 15
+INFO  StorageDelivery:27 - Lisovogo 70 40 20
+INFO  StorageDelivery:27 - 
+INFO  Menu:33 - Please write the street where you want to receive delivery.txt.
+INFO  StorageMyFood:26 - RibeyeSteak 35 15
+INFO  StorageMyFood:26 - Beefsteak 40 20
+INFO  StorageMyFood:26 - Mimosa 17 25
+INFO  StorageMyFood:26 - GreekSalad 20 25
+INFO  StorageMyFood:26 - Cheesecake 17 15
+INFO  StorageMyFood:26 - Mango 7 20
+INFO  StorageMyFood:26 - 
+INFO  StorageDelivery:27 - Stroiteley 60 35 15
+INFO  StorageDelivery:27 - Lisovogo 70 40 20
+INFO  StorageDelivery:27 - 
+INFO  Menu:33 - Please write the street where you want to receive delivery.txt.
+INFO  StorageMyFood:26 - RibeyeSteak 35 15
+INFO  StorageMyFood:26 - Beefsteak 40 20
+INFO  StorageMyFood:26 - Mimosa 17 25
+INFO  StorageMyFood:26 - GreekSalad 20 25
+INFO  StorageMyFood:26 - Cheesecake 17 15
+INFO  StorageMyFood:26 - Mango 7 20
+INFO  StorageMyFood:26 - 
+INFO  JsonExecute:19 - convert to string, finished!
+INFO  Executor:22 - "Igor Vegetable Jalfrezi 220$"
+INFO  Executor:23 - ================
+INFO  JsonExecute:30 - write to file, finished!
+INFO  StorageDelivery:27 - Stroiteley 60 35 15
+INFO  StorageDelivery:27 - Lisovogo 70 40 20
+INFO  StorageDelivery:27 - 
+INFO  Menu:33 - Please write the street where you want to receive delivery.txt.
+INFO  StorageMyFood:26 - RibeyeSteak 35 15
+INFO  StorageMyFood:26 - Beefsteak 40 20
+INFO  StorageMyFood:26 - Mimosa 17 25
+INFO  StorageMyFood:26 - GreekSalad 20 25
+INFO  StorageMyFood:26 - Cheesecake 17 15
+INFO  StorageMyFood:26 - Mango 7 20
+INFO  StorageMyFood:26 - 
+INFO  StorageDelivery:27 - Stroiteley 60 35 15
+INFO  StorageDelivery:27 - Lisovogo 70 40 20
+INFO  StorageDelivery:27 - 
+INFO  Menu:33 - Please write the street where you want to receive delivery.txt.
+INFO  StorageMyFood:26 - RibeyeSteak 35 15
+INFO  StorageMyFood:26 - Beefsteak 40 20
+INFO  StorageMyFood:26 - Mimosa 17 25
+INFO  StorageMyFood:26 - GreekSalad 20 25
+INFO  StorageMyFood:26 - Cheesecake 17 15
+INFO  StorageMyFood:26 - Mango 7 20
+INFO  StorageMyFood:26 - 
+INFO  StorageDelivery:27 - Stroiteley 60 35 15
+INFO  StorageDelivery:27 - Lisovogo 70 40 20
+INFO  StorageDelivery:27 - 
+INFO  Menu:33 - Please write the street where you want to receive delivery.txt.
+INFO  StorageMyFood:26 - RibeyeSteak 35 15
+INFO  StorageMyFood:26 - Beefsteak 40 20
+INFO  StorageMyFood:26 - Mimosa 17 25
+INFO  StorageMyFood:26 - GreekSalad 20 25
+INFO  StorageMyFood:26 - Cheesecake 17 15
+INFO  StorageMyFood:26 - Mango 7 20
+INFO  StorageMyFood:26 - 
+INFO  StorageDelivery:27 - Stroiteley 60 35 15
+INFO  StorageDelivery:27 - Lisovogo 70 40 20
+INFO  StorageDelivery:27 - 
+INFO  StorageMyFood:26 - RibeyeSteak 35 15
+INFO  StorageMyFood:26 - Beefsteak 40 20
+INFO  StorageMyFood:26 - Mimosa 17 25
+INFO  StorageMyFood:26 - GreekSalad 20 25
+INFO  StorageMyFood:26 - Cheesecake 17 15
+INFO  StorageMyFood:26 - Mango 7 20
+INFO  StorageMyFood:26 - 
+INFO  JsonExecute:19 - convert to string, finished!
+INFO  Executor:22 - ""
+INFO  Executor:23 - ================
+INFO  StorageDelivery:27 - Stroiteley 60 35 15
+INFO  StorageDelivery:27 - Lisovogo 70 40 20
+INFO  StorageDelivery:27 - 
+INFO  Menu:33 - Please write the street where you want to receive delivery.txt.
+INFO  StorageMyFood:26 - RibeyeSteak 35 15
+INFO  StorageMyFood:26 - Beefsteak 40 20
+INFO  StorageMyFood:26 - Mimosa 17 25
+INFO  StorageMyFood:26 - GreekSalad 20 25
+INFO  StorageMyFood:26 - Cheesecake 17 15
+INFO  StorageMyFood:26 - Mango 7 20
+INFO  StorageMyFood:26 - 
+INFO  JsonExecute:19 - convert to string, finished!
+INFO  Executor:25 - null
+INFO  Executor:26 - ================
+INFO  StorageDelivery:27 - Stroiteley 60 35 15
+INFO  StorageDelivery:27 - Lisovogo 70 40 20
+INFO  StorageDelivery:27 - 
+INFO  StorageMyFood:26 - RibeyeSteak 35 15
+INFO  StorageMyFood:26 - Beefsteak 40 20
+INFO  StorageMyFood:26 - Mimosa 17 25
+INFO  StorageMyFood:26 - GreekSalad 20 25
+INFO  StorageMyFood:26 - Cheesecake 17 15
+INFO  StorageMyFood:26 - Mango 7 20
+INFO  StorageMyFood:26 - 
+INFO  StorageDelivery:27 - Stroiteley 60 35 15
+INFO  StorageDelivery:27 - Lisovogo 70 40 20
+INFO  StorageDelivery:27 - 
+INFO  StorageMyFood:26 - RibeyeSteak 35 15
+INFO  StorageMyFood:26 - Beefsteak 40 20
+INFO  StorageMyFood:26 - Mimosa 17 25
+INFO  StorageMyFood:26 - GreekSalad 20 25
+INFO  StorageMyFood:26 - Cheesecake 17 15
+INFO  StorageMyFood:26 - Mango 7 20
+INFO  StorageMyFood:26 - 
+INFO  StorageDelivery:27 - Stroiteley 60 35 15
+INFO  StorageDelivery:27 - Lisovogo 70 40 20
+INFO  StorageDelivery:27 - 
+INFO  StorageDelivery:27 - Stroiteley 60 35 15
+INFO  StorageDelivery:27 - Lisovogo 70 40 20
+INFO  StorageDelivery:27 - 
+INFO  Menu:33 - Please write the street where you want to receive delivery
+INFO  StorageMyFood:26 - RibeyeSteak 35 15
+INFO  StorageMyFood:26 - Beefsteak 40 20
+INFO  StorageMyFood:26 - Mimosa 17 25
+INFO  StorageMyFood:26 - GreekSalad 20 25
+INFO  StorageMyFood:26 - Cheesecake 17 15
+INFO  StorageMyFood:26 - Mango 7 20
+INFO  StorageMyFood:26 - 
+INFO  StorageDelivery:27 - Stroiteley 60 35 15
+INFO  StorageDelivery:27 - Lisovogo 70 40 20
+INFO  StorageDelivery:27 - 
+INFO  StorageMyFood:26 - RibeyeSteak 35 15
+INFO  StorageMyFood:26 - Beefsteak 40 20
+INFO  StorageMyFood:26 - Mimosa 17 25
+INFO  StorageMyFood:26 - GreekSalad 20 25
+INFO  StorageMyFood:26 - Cheesecake 17 15
+INFO  StorageMyFood:26 - Mango 7 20
+INFO  StorageMyFood:26 - 
+INFO  StorageDelivery:27 - Stroiteley 60 35 15
+INFO  StorageDelivery:27 - Lisovogo 70 40 20
+INFO  StorageDelivery:27 - 
+INFO  Menu:33 - Please write the street where you want to receive delivery
+INFO  StorageMyFood:26 - RibeyeSteak 35 15
+INFO  StorageMyFood:26 - Beefsteak 40 20
+INFO  StorageMyFood:26 - Mimosa 17 25
+INFO  StorageMyFood:26 - GreekSalad 20 25
+INFO  StorageMyFood:26 - Cheesecake 17 15
+INFO  StorageMyFood:26 - Mango 7 20
+INFO  StorageMyFood:26 - 
+INFO  StorageDelivery:27 - Stroiteley 60 35 15
+INFO  StorageDelivery:27 - Lisovogo 70 40 20
+INFO  StorageDelivery:27 - 
+INFO  Menu:33 - Please write the street where you want to receive delivery
+INFO  StorageDelivery:27 - Stroiteley 60 35 15
+INFO  StorageDelivery:27 - Lisovogo 70 40 20
+INFO  StorageDelivery:27 - 
+INFO  Menu:33 - Please write the street where you want to receive delivery

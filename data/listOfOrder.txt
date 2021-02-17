@@ -1,0 +1,11 @@
+Pivnichna Street Cost delivery.txt 50 $ Time delivery.txt 30 min Distance delivery.txt 10 km 
+FriedChicken Food Cost food 25 $ Quantity food 10 pieces 
+Pivnichna Street Cost delivery 50 $ Time delivery.txt 30 min Distance delivery 10 km 
+Pivnichna Street Cost delivery 50 $ Time delivery 30 min Distance delivery 10 km 
+FriedChicken Food Cost food 25 $ Quantity food 10 pieces 
+Pivnichna Street Cost delivery 50 $ Time delivery 30 min Distance delivery 10 km 
+FriedChicken Food Cost food 25 $ Quantity food 10 pieces 
+Pivnichna Street Cost delivery 50 $ Time delivery 30 min Distance delivery 10 km 
+FriedChicken Food Cost food 25 $ Quantity food 10 pieces 
+Pivnichna Street Cost delivery 50 $ Time delivery 30 min Distance delivery 10 km 
+Pivnichna Street Cost delivery 50 $ Time delivery 30 min Distance delivery 10 km 

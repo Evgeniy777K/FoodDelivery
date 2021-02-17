@@ -22,7 +22,7 @@ public class Menu {
 
 
         boolean userHungry = true;
-        System.out.println("======Welcome to the Glovo ======\n\t\"Possible delivery on the streets");
+        System.out.println("======Welcome to the Glovo ======\n\t\"Possible delivery.txt on the streets");
         System.out.println(StorageDelivery.getStorageDelivery(storageDelivery));
         System.out.println("What is you address?");
 
@@ -30,7 +30,7 @@ public class Menu {
 
         switch (address) {
             case "Pivnichna":
-                LOGGER.info("Please write the street where you want to receive delivery.");
+                LOGGER.info("Please write the street where you want to receive delivery");
                 for (String street : storageDelivery) {
                     if (street.equals("Pivnichna")) {
                         System.out.println("Cost delivery " + storageDelivery.get(1) + " $ " + "Time delivery " + storageDelivery.get(2) + " min " +
@@ -45,7 +45,7 @@ public class Menu {
             case "Stroiteley":
                 for (String street : storageDelivery) {
                     if (street.equals("Stroiteley")) {
-                        System.out.println("Cost delivery " + storageDelivery.get(1) + " $ " + "Time delivery " + storageDelivery.get(2) + " min " +
+                        System.out.println("Cost delivery " + storageDelivery.get(1) + " $ " + "Time delivery" + storageDelivery.get(2) + " min " +
                                 "Distance delivery " + storageDelivery.get(3) + " km " + "\r\n");
                         wr.bufferedWriter.write(storageDelivery.get(0) + " Street " +
                                 "Cost delivery " + storageDelivery.get(1) + " $ " + "Time delivery " + storageDelivery.get(2) + " min " +
@@ -181,7 +181,5 @@ public class Menu {
                 System.out.println("Goodbye " + userName + " have a nice day.");
             }
         }
-
-        ClientMenu.printClientMenu();
     }
 }

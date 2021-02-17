@@ -10,7 +10,7 @@ public class WriteToListOfOrders {
 
     {
         try {
-            bw = new BufferedWriter(new FileWriter("data/listOfOrders", true));
+            bw = new BufferedWriter(new FileWriter("data/listOfOrder.txt", true));
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -18,7 +18,7 @@ public class WriteToListOfOrders {
 
     {
         try {
-            bufferedWriter = new BufferedWriter(new FileWriter("data/listOfOrders", true));
+            bufferedWriter = new BufferedWriter(new FileWriter("data/listOfOrder.txt", true));
         } catch (IOException e) {
             e.printStackTrace();
         }
