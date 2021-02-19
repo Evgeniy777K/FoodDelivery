@@ -5,12 +5,12 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 public class WriteToListOfOrders {
-    public BufferedWriter bw;
-    public BufferedWriter bufferedWriter;
+    public BufferedWriter bufferedWriterFood;
+    public BufferedWriter bufferedWriterLocation;
 
     {
         try {
-            bw = new BufferedWriter(new FileWriter("data/listOfOrder.txt", true));
+            bufferedWriterFood = new BufferedWriter(new FileWriter("data/listOfOrder.txt", true));
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -18,7 +18,7 @@ public class WriteToListOfOrders {
 
     {
         try {
-            bufferedWriter = new BufferedWriter(new FileWriter("data/listOfOrder.txt", true));
+            bufferedWriterLocation = new BufferedWriter(new FileWriter("data/listOfOrder.txt", true));
         } catch (IOException e) {
             e.printStackTrace();
         }

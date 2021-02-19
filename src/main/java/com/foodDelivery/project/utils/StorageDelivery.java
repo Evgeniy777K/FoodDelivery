@@ -6,6 +6,7 @@ import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.Arrays;
 import java.util.List;
 
 public class StorageDelivery {
@@ -18,11 +19,9 @@ public class StorageDelivery {
             String line = reader.readLine();
             while (line != null) {
                 String[] splitLine = line.split(" ");
-                if (splitLine.length == 4) {
-                    storageDelivery.add(splitLine[0]);
-                    storageDelivery.add(String.valueOf(Integer.parseInt(splitLine[1])));
-                    storageDelivery.add(String.valueOf(Integer.parseInt(splitLine[2])));
-                    storageDelivery.add(String.valueOf(Integer.parseInt(splitLine[3])));
+                int countOfFields = 4;
+                if (splitLine.length == countOfFields) {
+                    storageDelivery.addAll(Arrays.asList(splitLine));
                 }
                 LOGGER.info(line = reader.readLine());
             }

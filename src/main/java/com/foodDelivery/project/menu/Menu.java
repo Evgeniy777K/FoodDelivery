@@ -1,6 +1,5 @@
 package com.foodDelivery.project.menu;
 
-import com.foodDelivery.project.client.ClientMenu;
 import com.foodDelivery.project.exception.MyException;
 import com.foodDelivery.project.utils.InputValue;
 import com.foodDelivery.project.utils.StorageDelivery;
@@ -35,10 +34,10 @@ public class Menu {
                     if (street.equals("Pivnichna")) {
                         System.out.println("Cost delivery " + storageDelivery.get(1) + " $ " + "Time delivery " + storageDelivery.get(2) + " min " +
                                 "Distance delivery " + storageDelivery.get(3) + " km " + "\r\n");
-                        wr.bufferedWriter.write(storageDelivery.get(0) + " Street " +
+                        wr.bufferedWriterLocation.write(storageDelivery.get(0) + " Street " +
                                 "Cost delivery " + storageDelivery.get(1) + " $ " + "Time delivery " + storageDelivery.get(2) + " min " +
                                 "Distance delivery " + storageDelivery.get(3) + " km " + "\r\n");
-                        wr.bufferedWriter.close();
+                        wr.bufferedWriterLocation.close();
                     }
                 }
                 break;
@@ -47,10 +46,10 @@ public class Menu {
                     if (street.equals("Stroiteley")) {
                         System.out.println("Cost delivery " + storageDelivery.get(1) + " $ " + "Time delivery" + storageDelivery.get(2) + " min " +
                                 "Distance delivery " + storageDelivery.get(3) + " km " + "\r\n");
-                        wr.bufferedWriter.write(storageDelivery.get(0) + " Street " +
+                        wr.bufferedWriterLocation.write(storageDelivery.get(0) + " Street " +
                                 "Cost delivery " + storageDelivery.get(1) + " $ " + "Time delivery " + storageDelivery.get(2) + " min " +
                                 "Distance delivery " + storageDelivery.get(3) + " km " + "\r\n");
-                        wr.bufferedWriter.close();
+                        wr.bufferedWriterLocation.close();
                     }
                 }
                 break;
@@ -59,10 +58,10 @@ public class Menu {
                     if (street.equals("Lisovogo")) {
                         System.out.println("Cost delivery " + storageDelivery.get(1) + " $ " + "Time delivery " + storageDelivery.get(2) + " min " +
                                 "Distance delivery " + storageDelivery.get(3) + " km " + "\r\n");
-                        wr.bufferedWriter.write(storageDelivery.get(0) + " Street " +
+                        wr.bufferedWriterLocation.write(storageDelivery.get(0) + " Street " +
                                 "Cost delivery " + storageDelivery.get(1) + " $ " + "Time delivery " + storageDelivery.get(2) + " min " +
                                 "Distance delivery " + storageDelivery.get(3) + " km " + "\r\n");
-                        wr.bufferedWriter.close();
+                        wr.bufferedWriterLocation.close();
                     }
                 }
                 break;
@@ -94,10 +93,10 @@ public class Menu {
                             if (food.equals("FriedChicken")) {
                                 System.out.println("Cost food " + storageFood.get(1) + " $ "
                                         + "Quantity food " + storageFood.get(2) + " pieces " + "\r\n");
-                                wr.bw.write(storageFood.get(0) + " Food " +
+                                wr.bufferedWriterFood.write(storageFood.get(0) + " Food " +
                                         "Cost food " + storageFood.get(1) + " $ " + "Quantity food " +
                                         storageFood.get(2) + " pieces " + "\r\n");
-                                wr.bw.close();
+                                wr.bufferedWriterFood.close();
                             }
                         }
                         break;
@@ -106,10 +105,10 @@ public class Menu {
                             if (food.equals("RibeyeSteak")) {
                                 System.out.println("Cost food " + storageFood.get(1) + " $ "
                                         + "Quantity food " + storageFood.get(2) + " pieces " + "\r\n");
-                                wr.bw.write(storageFood.get(0) + " Food " +
+                                wr.bufferedWriterFood.write(storageFood.get(0) + " Food " +
                                         "Cost food " + storageFood.get(1) + " $ " + "Quantity food " +
                                         storageFood.get(2) + " pieces " + "\r\n");
-                                wr.bw.close();
+                                wr.bufferedWriterFood.close();
                             }
                         }
                         break;
@@ -118,10 +117,10 @@ public class Menu {
                             if (food.equals("Beefsteak")) {
                                 System.out.println("Cost food " + storageFood.get(1) + " $ "
                                         + "Quantity food " + storageFood.get(2) + " pieces " + "\r\n");
-                                wr.bw.write(storageFood.get(0) + " Food " +
+                                wr.bufferedWriterFood.write(storageFood.get(0) + " Food " +
                                         "Cost food " + storageFood.get(1) + " $ " + "Quantity food " +
                                         storageFood.get(2) + " pieces " + "\r\n");
-                                wr.bw.close();
+                                wr.bufferedWriterFood.close();
                             }
                         }
                         break;
@@ -130,10 +129,10 @@ public class Menu {
                             if (food.equals("Mimosa")) {
                                 System.out.println("Cost food " + storageFood.get(1) + " $ "
                                         + "Quantity food " + storageFood.get(2) + " pieces " + "\r\n");
-                                wr.bw.write(storageFood.get(0) + " Food " +
+                                wr.bufferedWriterFood.write(storageFood.get(0) + " Food " +
                                         "Cost food " + storageFood.get(1) + " $ " + "Quantity food " +
                                         storageFood.get(2) + " pieces " + "\r\n");
-                                wr.bw.close();
+                                wr.bufferedWriterFood.close();
                             }
                         }
                         break;
@@ -142,10 +141,10 @@ public class Menu {
                             if (food.equals("GreekSalad")) {
                                 System.out.println("Cost food " + storageFood.get(1) + " $ "
                                         + "Quantity food " + storageFood.get(2) + " pieces " + "\r\n");
-                                wr.bw.write(storageFood.get(0) + " Food " +
+                                wr.bufferedWriterFood.write(storageFood.get(0) + " Food " +
                                         "Cost food " + storageFood.get(1) + " $ " + "Quantity food " +
                                         storageFood.get(2) + " pieces " + "\r\n");
-                                wr.bw.close();
+                                wr.bufferedWriterFood.close();
                             }
                         }
                         break;
@@ -154,10 +153,10 @@ public class Menu {
                             if (food.equals("Cheesecake")) {
                                 System.out.println("Cost food " + storageFood.get(1) + " $ "
                                         + "Quantity food " + storageFood.get(2) + " pieces " + "\r\n");
-                                wr.bw.write(storageFood.get(0) + " Food " +
+                                wr.bufferedWriterFood.write(storageFood.get(0) + " Food " +
                                         "Cost food " + storageFood.get(1) + " $ " + "Quantity food " +
                                         storageDelivery.get(2) + " pieces " + "\r\n");
-                                wr.bw.close();
+                                wr.bufferedWriterFood.close();
                             }
                         }
                         break;
@@ -166,10 +165,10 @@ public class Menu {
                             if (food.equals("Mango")) {
                                 System.out.println("Cost food " + storageFood.get(1) + " $ "
                                         + "Quantity food " + storageFood.get(2) + " pieces " + "\r\n");
-                                wr.bw.write(storageFood.get(0) + " Food " +
+                                wr.bufferedWriterFood.write(storageFood.get(0) + " Food " +
                                         "Cost food " + storageFood.get(1) + " $ " + "Quantity food " +
                                         storageFood.get(2) + " pieces " + "\r\n");
-                                wr.bw.close();
+                                wr.bufferedWriterFood.close();
                             }
                         }
                         break;

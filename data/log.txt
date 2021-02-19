@@ -249,3 +249,44 @@ INFO  StorageDelivery:27 - Stroiteley 60 35 15
 INFO  StorageDelivery:27 - Lisovogo 70 40 20
 INFO  StorageDelivery:27 - 
 INFO  Menu:33 - Please write the street where you want to receive delivery
+INFO  StorageDelivery:27 - Stroiteley 60 35 15
+INFO  StorageDelivery:27 - Lisovogo 70 40 20
+INFO  StorageDelivery:27 - 
+INFO  StorageMyFood:29 - RibeyeSteak 35 15
+INFO  StorageMyFood:29 - Beefsteak 40 20
+INFO  StorageMyFood:29 - Mimosa 17 25
+INFO  StorageMyFood:29 - GreekSalad 20 25
+INFO  StorageMyFood:29 - Cheesecake 17 15
+INFO  StorageMyFood:29 - Mango 7 20
+INFO  StorageMyFood:29 - 
+INFO  StorageDelivery:27 - Stroiteley 60 35 15
+INFO  StorageDelivery:27 - Lisovogo 70 40 20
+INFO  StorageDelivery:27 - 
+INFO  Menu:32 - Please write the street where you want to receive delivery
+INFO  StorageMyFood:32 - RibeyeSteak 35 15
+INFO  StorageMyFood:32 - Beefsteak 40 20
+INFO  StorageMyFood:32 - Mimosa 17 25
+INFO  StorageMyFood:32 - GreekSalad 20 25
+INFO  StorageMyFood:32 - Cheesecake 17 15
+INFO  StorageMyFood:32 - Mango 7 20
+INFO  StorageMyFood:32 - 
+INFO  StorageDelivery:27 - Stroiteley 60 35 15
+INFO  StorageDelivery:27 - Lisovogo 70 40 20
+INFO  StorageDelivery:27 - 
+INFO  StorageMyFood:32 - RibeyeSteak 35 15
+INFO  StorageMyFood:32 - Beefsteak 40 20
+INFO  StorageMyFood:32 - Mimosa 17 25
+INFO  StorageMyFood:32 - GreekSalad 20 25
+INFO  StorageMyFood:32 - Cheesecake 17 15
+INFO  StorageMyFood:32 - Mango 7 20
+INFO  StorageMyFood:32 - 
+INFO  StorageDelivery:26 - Stroiteley 60 35 15
+INFO  StorageDelivery:26 - Lisovogo 70 40 20
+INFO  StorageDelivery:26 - 
+INFO  StorageMyFood:29 - RibeyeSteak 35 15
+INFO  StorageMyFood:29 - Beefsteak 40 20
+INFO  StorageMyFood:29 - Mimosa 17 25
+INFO  StorageMyFood:29 - GreekSalad 20 25
+INFO  StorageMyFood:29 - Cheesecake 17 15
+INFO  StorageMyFood:29 - Mango 7 20
+INFO  StorageMyFood:29 - 
